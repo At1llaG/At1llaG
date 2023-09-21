@@ -22,9 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=at1llag&show_icons=true&locale=en&layout=compact" alt="at1llag" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=at1llag&" alt="at1llag" /></p>
-
-
 
 
 
